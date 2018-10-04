@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "CodingPractice",
+                "projectName": "CodingPractice",
+                "workingDirectory": "c:\\dev\\projects\\CodingPractice",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "CodingPractice",
+                "projectName": "CodingPractice",
+                "workingDirectory": "c:\\dev\\projects\\CodingPractice",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
