@@ -6,6 +6,50 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FizzBuzz",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "FizzBuzz",
+            "args": "",
+            "projectName": "CodingPractice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeSort",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MergeSort",
+            "args": "",
+            "projectName": "CodingPractice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuickSort",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "QuickSort",
+            "args": "",
+            "projectName": "CodingPractice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "BubbleSort",
+            "args": "",
+            "projectName": "CodingPractice"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HashFib",
             "request": "launch",
             "cwd": "${workspaceFolder}",

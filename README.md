@@ -1,7 +1,5 @@
 # CodingPractice
-
 ## Data Structures
-
 * Machine Data Representation
     * Ones, Two's Complement, and Related Arithmetic
     * Words, Pointers, Floating Point
@@ -14,9 +12,7 @@
 * Queues
 * Graphs
 * Databases
-
 ## Algorithms
-
 ### Sorting:
 * Bubble Sort (to know why it's bad)
 * Insertion Sort
@@ -39,7 +35,6 @@
 * Concrete implementation of a Hash Table, Tree, List, Stack, Queue, Array, and Set or Collection
 * Scheduling Algorithms
 * File System Traversal and Manipulation (on the inode or equivalent level).
-
 ## Design Patterns
 * Modularization
 * Factory
@@ -53,7 +48,6 @@
 * State [Machine]
 * Model View Controller
 * Threading and Parallel Programming Patterns
-
 ## Coding Paradigms
 * Imperative
 * Object Oriented
@@ -61,7 +55,6 @@
 * Declarative
 * Static and Dynamic Programming
 * Data Markup
-
 ## Complexity Theory
 * Complexity Spaces
 * Computability
@@ -92,7 +85,7 @@ Find Amazon blogs, YT vids, Haystack something, be awesome at it
 
 ## Algorithms "To-Do"
 * Know Big-0 and uses cases of array, tree, binary search tree, stack, queue
-* Implement Bubble Sort, Quicksort, and merge sort
+* Implement Bubblesort, Quicksort, and Mergesort
 * Implement linear search, binary search
 * Implement ArrayList<>
 * Implement HashTable
@@ -113,13 +106,14 @@ Find Amazon blogs, YT vids, Haystack something, be awesome at it
 ## Object-Oriented Principles
 * Know SOLID
 * Know 4 OO principles
-* Know distributed system design
-* Know distributed streaming system design
 
 ## Behavioral Questions
 #### Practice these...
 
 ## Architectural
+* Know distributed system design
+* Know distributed streaming system design
+
 Learn how to design:
 * TinyUrl
 * Twitter
@@ -136,3 +130,4 @@ Assume 70% are active every day, about 70% of 70% are active act peak hours. 245
 (Assert what is reasonable)
 Think about the user. .5 meg is too much data. Choose a reasonable maximum. 10k-15k maximum.
 
+O'Reilly's Java in a Nutshell by David Flanagan (see Resources) says: **"Java manipulates objects 'by reference,' but it passes object references to methods 'by value.'"**
